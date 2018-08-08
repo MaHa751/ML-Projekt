@@ -1,4 +1,3 @@
 ﻿  Versionenraum.cpp
-c:\users\alex\documents\github\ml-projekt\versionenraum\versionenraum\versionenraum.cpp(192): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-c:\users\alex\documents\github\ml-projekt\versionenraum\versionenraum\versionenraum.cpp(114): warning C4101: "buffer": Unreferenzierte lokale Variable
+c:\users\alex\documents\github\ml-projekt\versionenraum\versionenraum\versionenraum.cpp(125): warning C4101: "buffer": Unreferenzierte lokale Variable
   Versionenraum.vcxproj -> C:\Users\Alex\Documents\GitHub\ML-Projekt\Versionenraum\Debug\Versionenraum.exe
