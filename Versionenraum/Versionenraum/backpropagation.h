@@ -6,8 +6,8 @@
 // The layer dimensions are set per use of this library in the following
 // way:
 
-#define MAX_INPUT_LAYER_SIZE   20
-#define MAX_HIDDEN_LAYER_SIZE  40
+#define MAX_INPUT_LAYER_SIZE   30
+#define MAX_HIDDEN_LAYER_SIZE  60
 #define MAX_OUTPUT_LAYER_SIZE  20
 
 #define INPUT_TO_HIDDEN  0

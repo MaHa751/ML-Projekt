@@ -1,3 +1,4 @@
 ﻿  Versionenraum.cpp
-c:\users\alex\documents\github\ml-projekt\versionenraum\versionenraum\versionenraum.cpp(142): warning C4101: "buffer": Unreferenzierte lokale Variable
+c:\users\alex\documents\github\ml-projekt\versionenraum\versionenraum\versionenraum.cpp(214): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
+c:\users\alex\documents\github\ml-projekt\versionenraum\versionenraum\versionenraum.cpp(238): warning C4244: "Initialisierung": Konvertierung von "double" in "float", möglicher Datenverlust
   Versionenraum.vcxproj -> C:\Users\Alex\Documents\GitHub\ML-Projekt\Versionenraum\Debug\Versionenraum.exe
