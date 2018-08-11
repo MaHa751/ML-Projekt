@@ -1,5 +1,4 @@
-﻿  stdafx.cpp
-  C4.5.cpp
+﻿  C4.5.cpp
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(139): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(158): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(160): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
