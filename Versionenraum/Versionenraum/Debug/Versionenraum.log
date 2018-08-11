@@ -1,4 +1,0 @@
-﻿  Versionenraum.cpp
-c:\users\alex\source\repos\versionenraum\versionenraum\versionenraum.cpp(178): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
-c:\users\alex\source\repos\versionenraum\versionenraum\versionenraum.cpp(100): warning C4101: "buffer": Unreferenzierte lokale Variable
-  Versionenraum.vcxproj -> C:\Users\Alex\source\repos\Versionenraum\Debug\Versionenraum.exe
