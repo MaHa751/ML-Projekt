@@ -14,13 +14,17 @@ public class MyC45 {
 
 	public static void main(String[] args) throws IOException {
 		// .CSV Dateien definieren
-		String files[] = {"C:/Testdaten/Wohnungskartei_Muster_Master_4_S_teach_Testedit.csv"};
+		//String files[] = {"C:/Testdaten/Wohnungskartei_Muster_Master_4_S_teach_Testedit.csv"};
+		String files[] = {"C:/Users/Marcel/Dropbox/machine learning/C4.5_Java/C4.5-master_alt/data_sets/lenses.csv"};
+		
 		Scanner scan;
 		
 		// Files einlesen
 		scan = new Scanner(new File(files[0]));
 		String headerLine = scan.nextLine();
-		String headers[]  = headerLine.split(";");
+		System.out.println("Line 1: " + headerLine);
+		//String headers[]  = headerLine.split(";");
+		String headers[]  = headerLine.split(",");
 		
 		// Class Index (Klassenzuordnung) wird in letzter Spalte erwartet
 		int classIndex    = headers.length - 1;		//Spalte von class index
@@ -43,8 +47,10 @@ public class MyC45 {
 			Val data = null;
 			String inLine = scan.nextLine();
 			System.out.println("Line " + q + ": " + inLine);
+
 			q++;
-			String lineData[] = inLine.split(";");	//gewählte Zeile aufsplitten und in Array schreiben
+			//String lineData[] = inLine.split(";");	//gewählte Zeile aufsplitten und in Array schreiben
+			String lineData[] = inLine.split(",");	//gewählte Zeile aufsplitten und in Array schreiben
 			
 			// class in classes list einsortieren
 			if(classes.isEmpty()){		//erster Eintrag in classes
