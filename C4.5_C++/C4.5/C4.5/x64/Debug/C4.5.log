@@ -6,10 +6,11 @@ c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(274): wa
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(468): warning C4244: "Initialisierung": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(469): warning C4244: "Initialisierung": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(454): warning C4101: "j": Unreferenzierte lokale Variable
-c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(582): warning C4101: "m": Unreferenzierte lokale Variable
-c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(582): warning C4101: "k": Unreferenzierte lokale Variable
-c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(582): warning C4101: "l": Unreferenzierte lokale Variable
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(525): warning C4244: "=": Konvertierung von "unsigned __int64" in "double", möglicher Datenverlust
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(622): warning C4101: "m": Unreferenzierte lokale Variable
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(622): warning C4101: "k": Unreferenzierte lokale Variable
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(622): warning C4101: "l": Unreferenzierte lokale Variable
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(476): warning C4715: "ComputeAttributeEntropyGain": Nicht alle Codepfade geben einen Wert zurück.
-c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(575): warning C4715: "TreeCls::Temp_TestTree": Nicht alle Codepfade geben einen Wert zurück.
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(615): warning C4715: "TreeCls::Temp_TestTree": Nicht alle Codepfade geben einen Wert zurück.
 c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(344): warning C4715: "MatrixCls::operator()": Nicht alle Codepfade geben einen Wert zurück.
   C4.5.vcxproj -> C:\Users\Marcel\Documents\GitHub\ML-Projekt\C4.5_C++\C4.5\x64\Debug\C4.5.exe
