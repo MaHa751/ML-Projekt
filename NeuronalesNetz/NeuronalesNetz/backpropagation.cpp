@@ -237,7 +237,7 @@ void feedForwardNetwork::backpropagate(double t[MAX_OUTPUT_LAYER_SIZE])
 
   double deltaH[MAX_HIDDEN_LAYER_SIZE];
   int i,j;
-  double e,y,d,sum;
+  double e,y;
   double delta;
 
   // neural network learning step
