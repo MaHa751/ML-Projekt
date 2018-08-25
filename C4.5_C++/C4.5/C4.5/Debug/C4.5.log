@@ -1,1 +1,41 @@
-﻿  C4.5.vcxproj -> C:\Users\Alex\Documents\GitHub\ML-Projekt\C4.5_C++\C4.5\Debug\C4.5.exe
+﻿  stdafx.cpp
+  C4.5.cpp
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(145): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(164): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(166): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(185): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(187): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(209): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(211): warning C4554: "&": Überprüfen Sie die Operatorrangfolge auf mögliche Fehler. Verwenden Sie Klammern, um die Rangfolge zu verdeutlichen.
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(225): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(274): warning C4554: "&": Überprüfen Sie die Operatorrangfolge auf mögliche Fehler. Verwenden Sie Klammern, um die Rangfolge zu verdeutlichen.
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(349): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(351): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(372): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(374): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(384): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(409): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(411): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(422): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(455): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(454): warning C4101: "j": Unreferenzierte lokale Variable
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(508): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(535): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(544): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(550): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(554): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(565): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(592): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(603): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(622): warning C4101: "m": Unreferenzierte lokale Variable
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(622): warning C4101: "k": Unreferenzierte lokale Variable
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(622): warning C4101: "l": Unreferenzierte lokale Variable
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(679): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(689): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(729): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(763): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(771): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(476): warning C4715: "ComputeAttributeEntropyGain": Nicht alle Codepfade geben einen Wert zurück.
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(615): warning C4715: "TreeCls::Temp_TestTree": Nicht alle Codepfade geben einen Wert zurück.
+c:\users\marcel\documents\github\ml-projekt\c4.5_c++\c4.5\c4.5\c4.5.cpp(344): warning C4715: "MatrixCls::operator()": Nicht alle Codepfade geben einen Wert zurück.
+  C4.5.vcxproj -> C:\Users\Marcel\Documents\GitHub\ML-Projekt\C4.5_C++\C4.5\Debug\C4.5.exe
